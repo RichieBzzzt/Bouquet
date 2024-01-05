@@ -199,6 +199,7 @@
     "terminal.ansiBrightYellow": "#ffeb95",
     "terminal.selectionBackground": "#d8dd4d4d",
     "terminalCursor.background": "#23706d",
+    "terminalCursor.foreground": "#5A9E71",
     "textCodeBlock.background": "#4f4f4f",
     "debugToolBar.background": "#012725",
     "welcomePage.buttonBackground": "#012725",

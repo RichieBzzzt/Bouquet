@@ -1,27 +1,28 @@
 {
   "name": "bouquet",
   "displayName": "Bouquet",
-  "description": "A dark floral-inspired theme.",
   "publisher": "richiebzzzt",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "description": "A dark floral inspired theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.69.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "bouquet-icon.png",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
-        "label": "Bouquet",
-        "uiTheme": "vs",
+        "label": "bouquet",
+        "uiTheme": "vs-dark",
         "path": "./themes/bouquet-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RichieBzzzt/Bouquet/"
-}
+    "url": "https://github.com/richiebzzzt/bouquet/"
+  }
 }

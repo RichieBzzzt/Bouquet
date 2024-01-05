@@ -1,0 +1,22 @@
+{
+  "name": "Bouquet",
+  "displayName": "Bouquet",
+  "description": "A dark floral-inspired theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "owl-icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bouquet",
+        "uiTheme": "vs",
+        "path": "./themes/bouquet-color-theme.json"
+      }
+    ]
+  }
+}

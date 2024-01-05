@@ -1,7 +1,8 @@
 {
-  "name": "Bouquet",
+  "name": "bouquet",
   "displayName": "Bouquet",
   "description": "A dark floral-inspired theme.",
+  "publisher": "richiebzzzt",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"

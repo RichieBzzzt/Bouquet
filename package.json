@@ -18,6 +18,11 @@
         "label": "bouquet",
         "uiTheme": "vs-dark",
         "path": "./themes/bouquet-color-theme.json"
+      },
+      {
+        "label": "bouquet light",
+        "uiTheme": "vs",
+        "path": "./themes/bouquet-light-color-theme.json"
       }
     ]
   },
